@@ -2,6 +2,8 @@
 
 **Logo Maker Online** is a web-based tool that allows users to easily create custom logos or favicons. Users can either input commands to generate a logo or choose from pre-set options to design their perfect logo with ease.
 
+# live link : [Logo Maker - Try it Live!](https://logo-maker-vert.vercel.app/)
+
 ## Features
 
 - Create custom logos or favicons by entering simple commands.
